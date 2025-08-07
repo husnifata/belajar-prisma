@@ -8,7 +8,6 @@ Ini adalah proyek sederhana yang menunjukkan cara menggunakan **Prisma ORM** den
 - Prisma ORM
 - SQLite
 - JavaScript (bisa disesuaikan ke TypeScript)
-- Express.js (opsional jika digunakan)
 
 ## Setup Project
 
